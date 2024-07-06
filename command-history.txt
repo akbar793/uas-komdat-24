@@ -1,0 +1,49 @@
+    1  ls
+    2  cd latihan-git1
+    3  gh auth login
+    4  code .
+    5  ls
+    6  nano index.html
+    7  code.
+    8  code .
+    9  cd ..
+   10  mkdir git-latihan1
+   11  mkdir git-latihan
+   12  ls
+   13  cd git-latihan/
+   14  code .
+   15  ls
+   16  git init
+   17  code .
+   18  google-chrome
+   19  sudo apt upgrade
+   20  sudo apt update
+   21  git --version
+   22  clear
+   23  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   24  nvm --v
+   25  nvm install v14.15.4
+   26  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   27  nvm --v
+   28  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.3/install.sh | bash
+   29  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+   30   nvm --v
+   31  clear
+   32  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+   33  nvm --v
+   34  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   35  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+   36  nvm --v
+   37  clear
+   38  nvm --v
+   39  nvm install v14.15.4
+   40  node -v
+   41  clear
+   42  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   43  ls
+   44  cd uas-komdat-24/
+   45  ls
+   46  code .
+   47  npm install
+   48  npm run start
+   49  history > command-history.txt
